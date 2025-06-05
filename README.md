@@ -60,7 +60,7 @@ http://localhost:8080/users
 ```http request
 #Создание новой подписки
 
-http://localhost:8080//users/1/subscriptions
+http://localhost:8080/users/1/subscriptions
 {
   "serviceName": "Netflix",
   "startDate": "2023-01-01",
